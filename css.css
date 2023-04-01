@@ -1,6 +1,7 @@
 body{
     background-color: darkgray;
 }
+<<<<<<< HEAD
 #container{
     background-color: aqua;
     text-align: leff;
@@ -9,4 +10,9 @@ body{
 #container #logo {
     width: 20px;
     vertical-align: middle;
+=======
+#pie{
+    background-color: chocolate;
+    text-align: end;
+>>>>>>> footer
 }
