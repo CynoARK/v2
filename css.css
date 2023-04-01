@@ -3,5 +3,10 @@ body{
 }
 #container{
     background-color: aqua;
-    text-align: center;
+    text-align: leff;
+   
+}
+#container #logo {
+    width: 20px;
+    vertical-align: middle;
 }
