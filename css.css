@@ -1,3 +1,7 @@
 body{
     background-color: darkgray;
 }
+#container{
+    background-color: aqua;
+    text-align: center;
+}
