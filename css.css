@@ -1,3 +1,7 @@
 body{
     background-color: darkgray;
 }
+#pie{
+    background-color: chocolate;
+    text-align: end;
+}
